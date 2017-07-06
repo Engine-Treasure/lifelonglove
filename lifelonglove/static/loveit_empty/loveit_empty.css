@@ -1,0 +1,13 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(loveit_empty.svg);
+  background-image: -webkit-image-set(url(loveit_empty.png) 1x, url(loveit_empty.svg) 2x);
+  background-size: 112px 16px;
+}
+.icon-loveit_full {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+
